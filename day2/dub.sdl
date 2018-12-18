@@ -1,0 +1,5 @@
+name "day2"
+description "A minimal D application."
+authors "user"
+copyright "Copyright © 2018, user"
+license "proprietary"
